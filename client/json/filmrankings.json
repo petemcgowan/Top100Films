@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "5fee8d5fde4edc67006ccf9b"
+  },
+  "title": "new title",
+  "rankings": [
+    {
+      "_id": {
+        "$oid": "5fee8d5fde4edc67006ccf9c"
+      },
+      "ranker": "r1",
+      "rank": "45"
+    },
+    {
+      "_id": {
+        "$oid": "5fee8d5fde4edc67006ccf9d"
+      },
+      "ranker": "r2",
+      "rank": "2"
+    },
+    {
+      "_id": {
+        "$oid": "5fee8d5fde4edc67006ccf9e"
+      },
+      "ranker": "r3",
+      "rank": "78"
+    }
+  ],
+  "director": "the director",
+  "year": 2000,
+  "createdAt": {
+    "$date": "2021-01-01T02:47:59.794Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-01T02:47:59.794Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fee8de351694367b3ab4c21"
+  },
+  "title": "new title",
+  "rankings": [
+    {
+      "_id": {
+        "$oid": "5fee8de351694367b3ab4c22"
+      },
+      "ranker": "r1",
+      "rank": "45"
+    },
+    {
+      "_id": {
+        "$oid": "5fee8de351694367b3ab4c23"
+      },
+      "ranker": "r2",
+      "rank": "2"
+    },
+    {
+      "_id": {
+        "$oid": "5fee8de351694367b3ab4c24"
+      },
+      "ranker": "r3",
+      "rank": "78"
+    }
+  ],
+  "director": "the director",
+  "year": 2000,
+  "createdAt": {
+    "$date": "2021-01-01T02:50:11.468Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-01T02:50:11.468Z"
+  },
+  "__v": 0
+}]

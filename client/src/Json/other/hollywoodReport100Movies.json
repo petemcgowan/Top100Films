@@ -1,0 +1,502 @@
+[
+  {
+      "title": "The Godfather",
+      "ranker": "Hollywood Reporter",
+      "rank": "1"
+  },
+  {
+      "title": "The Wizard of Oz",
+      "ranker": "Hollywood Reporter",
+      "rank": "2"
+  },
+  {
+      "title": "Citizen Kane",
+      "ranker": "Hollywood Reporter",
+      "rank": "3"
+  },
+  {
+      "title": "The Shawshank Redemption",
+      "ranker": "Hollywood Reporter",
+      "rank": "4"
+  },
+  {
+      "title": "Pulp Fiction",
+      "ranker": "Hollywood Reporter",
+      "rank": "5"
+  },
+  {
+      "title": "Casablanca",
+      "ranker": "Hollywood Reporter",
+      "rank": "6"
+  },
+  {
+      "title": "The Godfather: Part II",
+      "ranker": "Hollywood Reporter",
+      "rank": "7"
+  },
+  {
+      "title": "E.T. The Extra-Terrestrial",
+      "ranker": "Hollywood Reporter",
+      "rank": "8"
+  },
+  {
+      "title": "2001: A Space Odyssey",
+      "ranker": "Hollywood Reporter",
+      "rank": "9"
+  },
+  {
+      "title": "Schindler's List",
+      "ranker": "Hollywood Reporter",
+      "rank": "10"
+  },
+  {
+      "title": "Star Wars",
+      "ranker": "Hollywood Reporter",
+      "rank": "11"
+  },
+  {
+      "title": "Back to the Future",
+      "ranker": "Hollywood Reporter",
+      "rank": "12"
+  },
+  {
+      "title": "Raiders of the Lost Ark",
+      "ranker": "Hollywood Reporter",
+      "rank": "13"
+  },
+  {
+      "title": "Forrest Gump",
+      "ranker": "Hollywood Reporter",
+      "rank": "14"
+  },
+  {
+      "title": "Gone With the Wind",
+      "ranker": "Hollywood Reporter",
+      "rank": "15"
+  },
+  {
+      "title": "To Kill a Mockingbird",
+      "ranker": "Hollywood Reporter",
+      "rank": "16"
+  },
+  {
+      "title": "Apocalypse Now",
+      "ranker": "Hollywood Reporter",
+      "rank": "17"
+  },
+  {
+      "title": "Annie Hall",
+      "ranker": "Hollywood Reporter",
+      "rank": "18"
+  },
+  {
+      "title": "Goodfellas",
+      "ranker": "Hollywood Reporter",
+      "rank": "19"
+  },
+  {
+      "title": "It's a Wonderful Life",
+      "ranker": "Hollywood Reporter",
+      "rank": "20"
+  },
+  {
+      "title": "Chinatown",
+      "ranker": "Hollywood Reporter",
+      "rank": "21"
+  },
+  {
+      "title": "The Silence of the Lambs",
+      "ranker": "Hollywood Reporter",
+      "rank": "22"
+  },
+  {
+      "title": "Lawrence of Arabia",
+      "ranker": "Hollywood Reporter",
+      "rank": "23"
+  },
+  {
+      "title": "Jaws",
+      "ranker": "Hollywood Reporter",
+      "rank": "24"
+  },
+  {
+      "title": "The Sound of Music",
+      "ranker": "Hollywood Reporter",
+      "rank": "25"
+  },
+  {
+      "title": "Singin' in the Rain",
+      "ranker": "Hollywood Reporter",
+      "rank": "26"
+  },
+  {
+      "title": "The Breakfast Club",
+      "ranker": "Hollywood Reporter",
+      "rank": "27"
+  },
+  {
+      "title": "The Graduate",
+      "ranker": "Hollywood Reporter",
+      "rank": "28"
+  },
+  {
+      "title": "Blade Runner",
+      "ranker": "Hollywood Reporter",
+      "rank": "29"
+  },
+  {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "ranker": "Hollywood Reporter",
+      "rank": "30"
+  },
+  {
+      "title": "The Princess Bride",
+      "ranker": "Hollywood Reporter",
+      "rank": "31"
+  },
+  {
+      "title": "The Empire Strikes Back",
+      "ranker": "Hollywood Reporter",
+      "rank": "32"
+  },
+  {
+      "title": "Fargo",
+      "ranker": "Hollywood Reporter",
+      "rank": "33"
+  },
+  {
+      "title": "American Beauty",
+      "ranker": "Hollywood Reporter",
+      "rank": "34"
+  },
+  {
+      "title": "A Clockwork Orange",
+      "ranker": "Hollywood Reporter",
+      "rank": "35"
+  },
+  {
+      "title": "Ferris Bueller's Day Off",
+      "ranker": "Hollywood Reporter",
+      "rank": "36"
+  },
+  {
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "ranker": "Hollywood Reporter",
+      "rank": "37"
+  },
+  {
+      "title": "When Harry Met Sally",
+      "ranker": "Hollywood Reporter",
+      "rank": "38"
+  },
+  {
+      "title": "The Shining",
+      "ranker": "Hollywood Reporter",
+      "rank": "39"
+  },
+  {
+      "title": "Fight Club",
+      "ranker": "Hollywood Reporter",
+      "rank": "40"
+  },
+  {
+      "title": "Psycho",
+      "ranker": "Hollywood Reporter",
+      "rank": "41"
+  },
+  {
+      "title": "Alien",
+      "ranker": "Hollywood Reporter",
+      "rank": "42"
+  },
+  {
+      "title": "Toy Story",
+      "ranker": "Hollywood Reporter",
+      "rank": "43"
+  },
+  {
+      "title": "The Matrix",
+      "ranker": "Hollywood Reporter",
+      "rank": "44"
+  },
+  {
+      "title": "Titanic",
+      "ranker": "Hollywood Reporter",
+      "rank": "45"
+    },
+  {
+      "title": "Saving Private Ryan",
+      "ranker": "Hollywood Reporter",
+      "rank": "46"
+  },
+  {
+      "title": "Some Like It Hot",
+      "ranker": "Hollywood Reporter",
+      "rank": "47"
+  },
+  {
+      "title": "The Usual Suspects",
+      "ranker": "Hollywood Reporter",
+      "rank": "48"
+  },
+  {
+      "title": "Rear Window",
+      "ranker": "Hollywood Reporter",
+      "rank": "49"
+  },
+  {
+      "title": "Jurassic Park",
+      "ranker": "Hollywood Reporter",
+      "rank": "50"
+  },
+  {
+      "title": "The Big Lebowski",
+      "ranker": "Hollywood Reporter",
+      "rank": "51"
+  },
+  {
+      "title": "All About Eve",
+      "ranker": "Hollywood Reporter",
+      "rank": "52"
+  },
+  {
+      "title": "Good Will Hunting",
+      "ranker": "Hollywood Reporter",
+      "rank": "53"
+  },
+  {
+      "title": "Butch Cassidy and the Sundance Kid",
+      "ranker": "Hollywood Reporter",
+      "rank": "54"
+  },
+  {
+      "title": "Taxi Driver",
+      "ranker": "Hollywood Reporter",
+      "rank": "55"
+  },
+  {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "ranker": "Hollywood Reporter",
+      "rank": "56"
+  },
+  {
+      "title": "The Dark Knight",
+      "ranker": "Hollywood Reporter",
+      "rank": "57"
+  },
+  {
+      "title": "Sunset Blvd.",
+      "ranker": "Hollywood Reporter",
+      "rank": "58"
+  },
+  {
+      "title": "Thelma & Louise",
+      "ranker": "Hollywood Reporter",
+      "rank": "59"
+  },
+  {
+      "title": "Amelie",
+      "ranker": "Hollywood Reporter",
+      "rank": "60"
+  },
+  {
+      "title": "West Side Story",
+      "ranker": "Hollywood Reporter",
+      "rank": "61"
+  },
+  {
+      "title": "North by Northwest",
+      "ranker": "Hollywood Reporter",
+      "rank": "62"
+  },
+  {
+      "title": "Groundhog Day",
+      "ranker": "Hollywood Reporter",
+      "rank": "63"
+  },
+  {
+      "title": "Mary Poppins",
+      "ranker": "Hollywood Reporter",
+      "rank": "64"
+  },
+  {
+      "title": "Raging Bull",
+      "ranker": "Hollywood Reporter",
+      "rank": "65"
+  },
+  {
+      "title": "The Lion King",
+      "ranker": "Hollywood Reporter",
+      "rank": "66"
+  },
+  {
+      "title": "Avatar",
+      "ranker": "Hollywood Reporter",
+      "rank": "67"
+  },
+  {
+      "title": "Monty Python and The Holy Grail",
+      "ranker": "Hollywood Reporter",
+      "rank": "68"
+  },
+  {
+      "title": "Gladiator",
+      "ranker": "Hollywood Reporter",
+      "rank": "69"
+  },
+  {
+      "title": "Vertigo",
+      "ranker": "Hollywood Reporter",
+      "rank": "70"
+  },
+  {
+      "title": "Almost Famous",
+      "ranker": "Hollywood Reporter",
+      "rank": "71"
+  },
+  {
+      "title": "Young Frankenstein",
+      "ranker": "Hollywood Reporter",
+      "rank": "72"
+  },
+  {
+      "title": "All the President's Men",
+      "ranker": "Hollywood Reporter",
+      "rank": "73"
+  },
+  {
+      "title": "Blazing Saddles",
+      "ranker": "Hollywood Reporter",
+      "rank": "74"
+  },
+  {
+      "title": "The Bridge on the River Kwai",
+      "ranker": "Hollywood Reporter",
+      "rank": "75"
+  },
+  {
+      "title": "Brokeback Mountain",
+      "ranker": "Hollywood Reporter",
+      "rank": "76"
+  },
+  {
+      "title": "Ghostbusters",
+      "ranker": "Hollywood Reporter",
+      "rank": "77"
+  },
+  {
+      "title": "12 Angry Men",
+      "ranker": "Hollywood Reporter",
+      "rank": "78"
+  },
+  {
+      "title": "Wall-E",
+      "ranker": "Hollywood Reporter",
+      "rank": "79"
+  },
+  {
+      "title": "On the Waterfront",
+      "ranker": "Hollywood Reporter",
+      "rank": "80"
+  },
+  {
+      "title": "Amadeus",
+      "ranker": "Hollywood Reporter",
+      "rank": "81"
+  },
+  {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "ranker": "Hollywood Reporter",
+      "rank": "82"
+  },
+  {
+      "title": "Die Hard",
+      "ranker": "Hollywood Reporter",
+      "rank": "83"
+  },
+  {
+      "title": "Inception",
+      "ranker": "Hollywood Reporter",
+      "rank": "84"
+  },
+  {
+      "title": "Seven",
+      "ranker": "Hollywood Reporter",
+      "rank": "85"
+  },
+  {
+      "title": "Beauty and the Beast",
+      "ranker": "Hollywood Reporter",
+      "rank": "86"
+  },
+  {
+      "title": "The Lord of the Rings: The Return of the King",
+      "ranker": "Hollywood Reporter",
+      "rank": "87"
+  },
+  {
+      "title": "Slumdog Millionaire",
+      "ranker": "Hollywood Reporter",
+      "rank": "88"
+  },
+  {
+      "title": "Braveheart",
+      "ranker": "Hollywood Reporter",
+      "rank": "89"
+  },
+  {
+      "title": "Memento",
+      "ranker": "Hollywood Reporter",
+      "rank": "90"
+  },
+  {
+      "title": "Rocky",
+      "ranker": "Hollywood Reporter",
+      "rank": "91"
+  },
+  {
+      "title": "Up",
+      "ranker": "Hollywood Reporter",
+      "rank": "92"
+  },
+  {
+      "title": "Close Encounters of the Third Kind",
+      "ranker": "Hollywood Reporter",
+      "rank": "93"
+  },
+  {
+      "title": "The Deer Hunter",
+      "ranker": "Hollywood Reporter",
+      "rank": "94"
+  },
+  {
+      "title": "Doctor Zhivago",
+      "ranker": "Hollywood Reporter",
+      "rank": "95"
+  },
+  {
+      "title": "Pan's Labyrinth",
+      "ranker": "Hollywood Reporter",
+      "rank": "96"
+  },
+  {
+      "title": "Airplane!",
+      "ranker": "Hollywood Reporter",
+      "rank": "97"
+  },
+  {
+      "title": "Reservoir Dogs",
+      "ranker": "Hollywood Reporter",
+      "rank": "98"
+  },
+  {
+      "title": "Bonnie and Clyde",
+      "ranker": "Hollywood Reporter",
+      "rank": "99"
+  },
+  {
+      "title": "The Seven Samurai",
+      "ranker": "Hollywood Reporter",
+      "rank": "100"
+  }
+]

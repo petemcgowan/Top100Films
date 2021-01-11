@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/100Films",
+  "jwtSecret": "sl_myJwtSecret"
+}

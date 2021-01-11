@@ -1,0 +1,502 @@
+[
+  {
+      "title": "The Godfather",
+      "ranker": "Empire",
+      "rank": "1"
+  },
+  {
+      "title": "The Empire Strikes Back",
+      "ranker": "Empire",
+      "rank": "2"
+  },
+  {
+      "title": "The Dark Knight",
+      "ranker": "Empire",
+      "rank": "3"
+  },
+  {
+      "title": "The Shawshank Redemption",
+      "ranker": "Empire",
+      "rank": "4"
+  },
+  {
+      "title": "Pulp Fiction",
+      "ranker": "Empire",
+      "rank": "5"
+  },
+  {
+      "title": "Goodfellas",
+      "ranker": "Empire",
+      "rank": "6"
+  },
+  {
+      "title": "Raiders Of The Lost Ark",
+      "ranker": "Empire",
+      "rank": "7"
+  },
+  {
+      "title": "Jaws",
+      "ranker": "Empire",
+      "rank": "8"
+  },
+  {
+      "title": "Star Wars",
+      "ranker": "Empire",
+      "rank": "9"
+  },
+  {
+      "title": "The Lord Of The Rings: The Fellowship Of The Ring",
+      "ranker": "Empire",
+      "rank": "10"
+  },
+  {
+      "title": "Back To The Future",
+      "ranker": "Empire",
+      "rank": "11"
+  },
+  {
+      "title": "The Godfather Part II",
+      "ranker": "Empire",
+      "rank": "12"
+  },
+  {
+      "title": "Blade Runner",
+      "ranker": "Empire",
+      "rank": "13"
+  },
+  {
+      "title": "Alien",
+      "ranker": "Empire",
+      "rank": "14"
+  },
+  {
+      "title": "Aliens",
+      "ranker": "Empire",
+      "rank": "15"
+  },
+  {
+      "title": "The Lord Of The Rings: The Return Of The King",
+      "ranker": "Empire",
+      "rank": "16"
+  },
+  {
+      "title": "Fight Club",
+      "ranker": "Empire",
+      "rank": "17"
+  },
+  {
+      "title": "Inception",
+      "ranker": "Empire",
+      "rank": "18"
+  },
+  {
+      "title": "Jurassic Park",
+      "ranker": "Empire",
+      "rank": "19"
+  },
+  {
+      "title": "Die Hard",
+      "ranker": "Empire",
+      "rank": "20"
+  },
+  {
+      "title": "2001: A Space Odyssey",
+      "ranker": "Empire",
+      "rank": "21"
+  },
+  {
+      "title": "Apocalypse Now",
+      "ranker": "Empire",
+      "rank": "22"
+  },
+  {
+      "title": "The Lord Of The Rings: The Two Towers",
+      "ranker": "Empire",
+      "rank": "23"
+  },
+  {
+      "title": "The Matrix",
+      "ranker": "Empire",
+      "rank": "24"
+  },
+  {
+      "title": "Terminator 2: Judgment Day",
+      "ranker": "Empire",
+      "rank": "25"
+  },
+  {
+      "title": "Heat",
+      "ranker": "Empire",
+      "rank": "26"
+  },
+  {
+      "title": "The Good, The Bad And The Ugly",
+      "ranker": "Empire",
+      "rank": "27"
+  },
+  {
+      "title": "Casablanca",
+      "ranker": "Empire",
+      "rank": "28"
+  },
+  {
+      "title": "The Big Lebowski",
+      "ranker": "Empire",
+      "rank": "29"
+  },
+  {
+      "title": "Seven",
+      "ranker": "Empire",
+      "rank": "30"
+  },
+  {
+      "title": "Taxi Driver",
+      "ranker": "Empire",
+      "rank": "31"
+  },
+  {
+      "title": "The Usual Suspects",
+      "ranker": "Empire",
+      "rank": "32"
+  },
+  {
+      "title": "Schindler's List",
+      "ranker": "Empire",
+      "rank": "33"
+  },
+  {
+      "title": "Guardians Of The Galaxy",
+      "ranker": "Empire",
+      "rank": "34"
+  },
+  {
+      "title": "The Shining",
+      "ranker": "Empire",
+      "rank": "35"
+  },
+  {
+      "title": "The Departed",
+      "ranker": "Empire",
+      "rank": "36"
+  },
+  {
+      "title": "The Thing",
+      "ranker": "Empire",
+      "rank": "37"
+  },
+  {
+      "title": "Mad Max: Fury Road",
+      "ranker": "Empire",
+      "rank": "38"
+  },
+  {
+      "title": "Saving Private Ryan",
+      "ranker": "Empire",
+      "rank": "39"
+  },
+  {
+      "title": "12 Angry Men",
+      "ranker": "Empire",
+      "rank": "40"
+  },
+  {
+      "title": "Eternal Sunshine Of The Spotless Mind",
+      "ranker": "Empire",
+      "rank": "41"
+  },
+  {
+      "title": "There Will Be Blood",
+      "ranker": "Empire",
+      "rank": "42"
+  },
+  {
+      "title": "One Flew Over The Cuckoo's Nest",
+      "ranker": "Empire",
+      "rank": "43"
+  },
+  {
+      "title": "Gladiator",
+      "ranker": "Empire",
+      "rank": "44"
+  },
+  {
+      "title": "Drive",
+      "ranker": "Empire",
+      "rank": "45"
+    },
+  {
+      "title": "Citizen Kane",
+      "ranker": "Empire",
+      "rank": "46"
+  },
+  {
+      "title": "Interstellar",
+      "ranker": "Empire",
+      "rank": "47"
+  },
+  {
+      "title": "The Silence Of The Lambs",
+      "ranker": "Empire",
+      "rank": "48"
+  },
+  {
+      "title": "Trainspotting",
+      "ranker": "Empire",
+      "rank": "49"
+  },
+  {
+      "title": "Lawrence Of Arabia",
+      "ranker": "Empire",
+      "rank": "50"
+  },
+  {
+      "title": "It's A Wonderful Life",
+      "ranker": "Empire",
+      "rank": "51"
+  },
+  {
+      "title": "Once Upon A Time In The West",
+      "ranker": "Empire",
+      "rank": "52"
+  },
+  {
+      "title": "Psycho",
+      "ranker": "Empire",
+      "rank": "53"
+  },
+  {
+      "title": "Vertigo",
+      "ranker": "Empire",
+      "rank": "54"
+  },
+  {
+      "title": "Pan's Labyrinth",
+      "ranker": "Empire",
+      "rank": "55"
+  },
+  {
+      "title": "Reservoir Dogs",
+      "ranker": "Empire",
+      "rank": "56"
+  },
+  {
+      "title": "Whiplash",
+      "ranker": "Empire",
+      "rank": "57"
+  },
+  {
+      "title": "Inglourious Basterds",
+      "ranker": "Empire",
+      "rank": "58"
+  },
+  {
+      "title": "E.T. – The Extra Terrestrial",
+      "ranker": "Empire",
+      "rank": "59"
+  },
+  {
+      "title": "American Beauty",
+      "ranker": "Empire",
+      "rank": "60"
+  },
+  {
+      "title": "Forrest Gump",
+      "ranker": "Empire",
+      "rank": "61"
+  },
+  {
+      "title": "La La Land",
+      "ranker": "Empire",
+      "rank": "62"
+  },
+  {
+      "title": "Donnie Darko",
+      "ranker": "Empire",
+      "rank": "63"
+  },
+  {
+      "title": "L.A. Confidential",
+      "ranker": "Empire",
+      "rank": "64"
+  },
+  {
+      "title": "Avengers Assemble",
+      "ranker": "Empire",
+      "rank": "65"
+  },
+  {
+      "title": "Return Of The Jedi",
+      "ranker": "Empire",
+      "rank": "66"
+  },
+  {
+      "title": "Memento",
+      "ranker": "Empire",
+      "rank": "67"
+  },
+  {
+      "title": "Ghostbusters",
+      "ranker": "Empire",
+      "rank": "68"
+  },
+  {
+      "title": "Singin' In The Rain",
+      "ranker": "Empire",
+      "rank": "69"
+  },
+  {
+      "title": "The Lion King",
+      "ranker": "Empire",
+      "rank": "70"
+  },
+  {
+      "title": "Hot Fuzz",
+      "ranker": "Empire",
+      "rank": "71"
+  },
+  {
+      "title": "Rear Window",
+      "ranker": "Empire",
+      "rank": "72"
+  },
+  {
+      "title": "Seven Samurai",
+      "ranker": "Empire",
+      "rank": "73"
+  },
+  {
+      "title": "Mulholland Dr.",
+      "ranker": "Empire",
+      "rank": "74"
+  },
+  {
+      "title": "Fargo",
+      "ranker": "Empire",
+      "rank": "75"
+  },
+  {
+      "title": "A Clockwork Orange",
+      "ranker": "Empire",
+      "rank": "76"
+  },
+  {
+      "title": "Toy Story",
+      "ranker": "Empire",
+      "rank": "77"
+  },
+  {
+      "title": "Oldboy",
+      "ranker": "Empire",
+      "rank": "78"
+  },
+  {
+      "title": "Captain America: Civil War",
+      "ranker": "Empire",
+      "rank": "79"
+  },
+  {
+      "title": "Spirited Away",
+      "ranker": "Empire",
+      "rank": "80"
+  },
+  {
+      "title": "The Social Network",
+      "ranker": "Empire",
+      "rank": "81"
+  },
+  {
+      "title": "Some Like It Hot",
+      "ranker": "Empire",
+      "rank": "82"
+  },
+  {
+      "title": "True Romance",
+      "ranker": "Empire",
+      "rank": "83"
+  },
+  {
+      "title": "Rocky",
+      "ranker": "Empire",
+      "rank": "84"
+  },
+  {
+      "title": "Léon",
+      "ranker": "Empire",
+      "rank": "85"
+  },
+  {
+      "title": "Indiana Jones And The Last Crusade",
+      "ranker": "Empire",
+      "rank": "86"
+  },
+  {
+      "title": "Predator",
+      "ranker": "Empire",
+      "rank": "87"
+  },
+  {
+      "title": "The Exorcist",
+      "ranker": "Empire",
+      "rank": "88"
+  },
+  {
+      "title": "Shaun Of The Dead",
+      "ranker": "Empire",
+      "rank": "89"
+  },
+  {
+      "title": "No Country For Old Men",
+      "ranker": "Empire",
+      "rank": "90"
+  },
+  {
+      "title": "The Prestige",
+      "ranker": "Empire",
+      "rank": "91"
+  },
+  {
+      "title": "The Terminator",
+      "ranker": "Empire",
+      "rank": "92"
+  },
+  {
+      "title": "The Princess Bride",
+      "ranker": "Empire",
+      "rank": "93"
+  },
+  {
+      "title": "Lost In Translation",
+      "ranker": "Empire",
+      "rank": "94"
+  },
+  {
+      "title": "Arrival",
+      "ranker": "Empire",
+      "rank": "95"
+  },
+  {
+      "title": "Good Will Hunting",
+      "ranker": "Empire",
+      "rank": "96"
+  },
+  {
+      "title": "Titanic",
+      "ranker": "Empire",
+      "rank": "97"
+  },
+  {
+      "title": "Amelie",
+      "ranker": "Empire",
+      "rank": "98"
+  },
+  {
+      "title": "Raging Bull",
+      "ranker": "Empire",
+      "rank": "99"
+  },
+  {
+      "title": "Stand By Me",
+      "ranker": "Empire",
+      "rank": "100"
+  }
+]
